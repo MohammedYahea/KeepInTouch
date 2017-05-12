@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fa9313a64780f752a8adff808aa47bc30c36c9cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_07cf4a1ac87c632f46adb625c857c2085549de6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_575c0bc3c40100a1a1b2d5797bbc69c304284cc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_2b396ceb2d0ba0af3c7fe40b1426fafcd2edc402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_89fcbeb06c6de5ef85495adab30891b3caf755d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohd. Ali\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_ffa62f9e8e1192d939226193008908d01e1e681c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_24b8a446ba24595fdd5bccd0fee9dcb0c6d521f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_d2ad408a859ed8e0e807ea176a482af39f5f37b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_d597e554dc2d7b677dd4eeed9c9bf5be42566bfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_70421e978498263b20bf962a654fd18a9c6f3fb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_f2df93989cf1b6a6e3f3e6565bcc3f2bbedeba29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_65e46738f7da9e70f3686ecb2802cc78890d3ad4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_e74cef8019b23f3715045a4c32854ac006f77b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_46347b7fd850b8b4d9b45ff6f672b577bc651538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_89d6c8651aac544a1823915e800b112483a14f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_37e3fbd953676546a5d1bf9b55f5158b9927506d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_a015448b3c3aaa58cfcfbd698da5429f4d4deb3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_d3a8d696abb3e6574d5e8eb016e698e5a151621b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_4471d4fed92f988160afeb94be5e0c4d7065afed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_8e702c413b3822d0864e025c44100a50efd33ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_7f0f174c19ad570d42697981ce74b29308d190a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_b1e5389a23b97370143935307488c9026d1a4dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_2ee5797c784c51fad847af4c4aa004e1cd09c4e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_ec82150050a2f3119060bb1f9b748fc23d2ea652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_34f4fae476d3ae5532725ba887b12da78728554a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_3bf1d30d5609b26e4debb02ea9b750159d2162d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_223a9907012da62992ce10102d342b7aea72a0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_d236178bcee69f2d838b8314f2c61b956236833d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_8eb026ab5c9df5d87e9f2fe117df85284c0eb92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_3823a9b34bff7780e476378b05cf88acf1a21f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_ca50f6c391632a2e6acaef1790e106d70c0c4980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_d8ba16215e3216175ecb6bddf626bb26f3a74af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_af1575fa590ada73dc57808728ab972c1d7df8d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_0db930eb55cf9afcbb978b483d952ab09878a0ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_75254d0d87b496edd605fb6a59ec6eee57742a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a1ec801a837e2b8de57dfbcb3064b6eefc14b5f">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a16d84da9e4bd806218d40b76d0ab0688b996bb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_4e2c908ccc32262ecff72ad8c23a06a3cc75ea56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mohd. Ali\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_25d894a1c72dff9621a2f2b9deb1fb9aca7489a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_bb6c216b677e15b59844154d3908e0cd019a0c02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_c52b8536b4a3aecefd3c9fedd9f1ff9fbcd961a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_c3f66483e713842475d2da96531f01e885c21595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_7ccf3a40947beca3be23f00606ecb69b3200ee59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_10a9690577dca831a3382c077a6c8355d3ce7a34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_daf96e941daf511cb10a616e9b9de18a47084e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_0a936ffbe905c55e4902298a064fbf64e062603e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_0a01fb6d4d5ad1f22118a7d0f6d6c7425adf5fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_506b7c75acaaca40fd347e120917f1ebf338a892\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_225843d9a0bb689e5a14e32f9b6fb3fa0910f052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_f4bed1a743cf2e661e52a769e62cf65bc14c9341\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_95075849dc833dea35d852bf15b2bd5336b952e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3869e119cfcf1754569c8fe45c9e07b7c2e3bc3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_1053a3247e793de165812d6e562628d045f4f454\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_e8aded0817266347d7ad78da46f6801709e96584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_a830c130729da41387ad7d4c26b001e8c94d2634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_1c0849c23b91ec81f33dbc04203a7dc923a88953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_8c56b6ee894298ad83c044c8ae137cc983012e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b4b6e8f027499fcc80a2dd8b0f0f5a0bfba8ad4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_d21b8c3455e9af53e7e6bd269fcfd4906723a3b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_bab61302189f2cafdec1b2db08135a58df60b9e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_8c0b052bfee7a8b94aa264c55072cd43723e9041\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6c1bd669e7e9f92429e2d2e2322c9bbf6eabfa38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_f155fbf9150d4f6e1a9e600b1026e0902d913c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_83dfc3b4f4bce743b5450127727cc15cdd44324c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff58923a4403ccee2ea21ab0d6b1da9f43993361">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2d2e0083540b6a8dc655024937ff551bef73a503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_a9c0aee63908fd618c52678900441cf1417c3ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_11fa745c25b902c419ee8b45ac349077abbad9ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_635a0c4de40c299d91b6ca8970427be24ecedb4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="G:\MMU studies\year 3\FYP\fyp2\FamilyOrganizer\FamilyOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_ddd121220a6b06143f5625596ccf08662489ec4b\classes.dex" />
+    </item>
+
+</items>

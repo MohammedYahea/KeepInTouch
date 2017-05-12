@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234111512179",
+    "firebase_url": "https://family-organizer-c4eb7.firebaseio.com",
+    "project_id": "family-organizer-c4eb7",
+    "storage_bucket": "family-organizer-c4eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234111512179:android:a13d3e4a0b2361b9",
+        "android_client_info": {
+          "package_name": "com.mmu.familyorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234111512179-bvtgjdujdhqgkh16ebjkmfspi1608l6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfbNB4zKMqh2CSgYEl4jXKVXrry5YSBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
